@@ -8,12 +8,12 @@
  } */
 
 @font-face {
-     font-family: Mario;
-     src: url(fonts/retro_mario/RetroMario-Regular.otf)
+     font-family:Breath;
+     src: url(fonts/BreathOfTheHouse.ttf)
  }
 
 body{
      color: var(--platinum);
-     font-family: Mario; 
+     font-family: Breath; 
      background-color: var(--midnight-violet);
  }
